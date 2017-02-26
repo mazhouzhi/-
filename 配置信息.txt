@@ -1,0 +1,3 @@
+http://192.168.0.195:8081/phs/ActionBranchInterFace.jsp
+
+{code:'610826436795975',from:'绥德县医院',to:'MED',pwd:'43ds11wi'}
